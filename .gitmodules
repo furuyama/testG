@@ -1,0 +1,6 @@
+[submodule "testF"]
+	path = testF
+	url = c:/Users/y.furuyama/desktop/testF
+[submodule "testC"]
+	path = testC
+	url = git@github.com:furuyama/testC.git
